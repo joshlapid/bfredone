@@ -1,3 +1,10 @@
+/* Navbar */
+.navbar-header {
+  color: #e32;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+}
+
 .item {
   height: 300px;
   width: 150px;
