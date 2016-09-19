@@ -1,5 +1,5 @@
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.3.3
 */
 
@@ -12,7 +12,7 @@
 
 .owl-theme .owl-controls .owl-buttons div{
 	color: #FFF;
-	display: inline-block;
+	display: none;
 	zoom: 1;
 	*display: inline;/*IE7 life-saver */
 	margin: 5px;
